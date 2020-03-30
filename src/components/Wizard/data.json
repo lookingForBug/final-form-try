@@ -1,0 +1,33 @@
+{
+  "step_one": {
+    "name": {
+      "type": "text",
+      "label": "Имя",
+      "value": ""
+    },
+    "lastname": {
+      "type": "text",
+      "label": "Фамилия",
+      "value": ""
+    }
+  },
+  "step_two": {
+    "sms": {
+      "type": "text",
+      "label": "Смс",
+      "value": ""
+    }
+  },
+  "step_three": {
+    "inn": {
+      "type": "text",
+      "label": "ИНН",
+      "value": ""
+    },
+    "phone": {
+      "type": "text",
+      "label": "Телефон",
+      "value": ""
+    }
+  }
+}
